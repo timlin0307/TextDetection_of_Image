@@ -1,2 +1,2 @@
-# Reconnaissance-de-caract-res
-Reconnaissance de caractères
+# Reconnaissance de Caractères
+
